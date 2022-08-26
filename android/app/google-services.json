@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "998407239847",
+    "firebase_url": "https://flutterfastfood-4397b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "flutterfastfood-4397b",
+    "storage_bucket": "flutterfastfood-4397b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998407239847:android:1126aa507a3af2e8000382",
+        "android_client_info": {
+          "package_name": "com.chepurnykh.flutter_burger_land"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998407239847-lei185f0sbvo92s8kqnauo8fg23i72r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE7k7uFc9biwpWuUrNQYQEtN__FvRar-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998407239847-lei185f0sbvo92s8kqnauo8fg23i72r6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "998407239847-du2l9m1nm7qh87r6tkh96ph33n9nilrb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterFastFood"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
